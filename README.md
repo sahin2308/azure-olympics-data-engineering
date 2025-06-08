@@ -1,4 +1,4 @@
-# Tokyo Olympics Data AnalysisProject 🚀
+# Tokyo Olympics Data Analysis Project 🚀
 
 An end-to-end Azure Data Engineering project that demonstrates real-world ETL orchestration using Azure Data Factory, Azure Databricks, Delta Lake, Unity Catalog, and CI/CD with Azure DevOps. This project ingests and transforms 2024 Olympics data and makes it ready for Power BI analytics.
 
