@@ -25,7 +25,7 @@ An end-to-end Azure Data Engineering project that demonstrates real-world ETL or
 
 ## 📊 Project Architecture
 
-![Architecture Diagram](./architecture/Architecture_Image.png)
+![Architecture Diagram](./Architecture_Image.png)
 
 ---
 
