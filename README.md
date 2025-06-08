@@ -7,8 +7,6 @@
 ![Power%20BI](https://img.shields.io/badge/Reporting-Power%20BI-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-![Architecture Diagram](./architecture/project-architecture.png)
-
 An end-to-end Azure Data Engineering project that demonstrates real-world ETL orchestration using Azure Data Factory, Azure Databricks, Delta Lake, Unity Catalog, and CI/CD with Azure DevOps. This project ingests and transforms 2024 Olympics data and makes it ready for Power BI analytics.
 
 ---
