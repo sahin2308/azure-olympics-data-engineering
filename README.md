@@ -1,4 +1,4 @@
-# Tokyo Olympics Data Analysis Project 🚀  
+# Paris Olympics Data Analysis Project 🚀  
 **End-to-end Azure Data Engineering solution using ADF, Databricks, Delta Lake & Power BI for Olympic analytics.**
 
 ![Azure](https://img.shields.io/badge/Cloud-Azure-blue) 
